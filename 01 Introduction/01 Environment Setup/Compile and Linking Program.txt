@@ -1,0 +1,18 @@
+Compile and Linking Program
+
+1. Compile and Show Program 
+   - g++ hello.cpp -o hello (compile to executing file)
+   - g++ -c hello.cpp (compile file cpp to obj file : hello.cpp --> hello.o)
+   - show obj file (objdump -d hello.o) 
+   
+2. Preprocessing
+   - -E -> syntax close preprocessing 
+   - include -> preprocessing directive
+   - g++ -E hellopreprocesing.cpp > hello.p
+
+3. Linking
+   1. linking on a file cpp format .cpp 
+   2. linking obj/object file format .o
+   
+   Combine/Linking 2 Object(obj) File
+   - g++ file1.o file2.o -o outputfile --> Linking Process

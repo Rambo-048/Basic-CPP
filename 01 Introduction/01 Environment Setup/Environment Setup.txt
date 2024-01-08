@@ -1,0 +1,11 @@
+Environment Setup
+
+1. Install Code Editor 
+   - Sublime Text
+   - Notepad++
+   - Visual Studio
+
+2. Install Compiler
+   - sudo apt install build-essential
+    
+   
