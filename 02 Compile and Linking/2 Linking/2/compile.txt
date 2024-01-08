@@ -1,0 +1,3 @@
+Compile
+
+- g++ linking1.cpp linking2.cpp -o output

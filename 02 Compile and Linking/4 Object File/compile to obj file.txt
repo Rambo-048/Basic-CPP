@@ -1,0 +1,13 @@
+Object File
+
+1. Compile to object file 
+   - g++ -c compile1.cpp
+   - g++ -c compile2.cpp
+
+2. Combine to Object to Execute File 
+   - g++ compile1.o compile2.o -o output
+
+3. Read Object File
+   - objdump -d compile1.o
+
+
