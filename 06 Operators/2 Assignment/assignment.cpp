@@ -7,29 +7,36 @@ int main()
 	int a = 5;
 	int b = 2;
 
-	bool total1, total2;
-
 	// Operator Assignment : =, +=, -=, *=, /=, %=, &=, |=, ^=, >>=, <<=
 	// 1. (+=)
 	a += 5;
 	b += 2;
-	cout << a;
+	cout << a << endl;
+	cout << b << endl;
 
 	// 2. (-=)
 	a -= 2;
 	b -= 5;
+	cout << a << endl;
+	cout << b << endl;
 
 	// 3. (*=)
-	a *= 5;
-	b *= 2;
+	b *= 5;
+	a *= 2;
+	cout << a << endl;
+	cout << b << endl;
 
 	// 4. (/=)
-	a /= 5;
-	b /= 2;
+	b /= 5;
+	a /= 2;
+	cout << a << endl;
+	cout << b << endl;
 
 	// 5. (%=)
-	a /= 5;
-	b /= 2;
+	b %= 5;
+	a %= 2;
+	cout << a << endl;
+	cout << b << endl;
 
 
 	cin.get();
