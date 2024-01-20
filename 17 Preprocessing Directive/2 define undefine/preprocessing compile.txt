@@ -1,0 +1,5 @@
+Preprocessing
+
+- g++ -E compile1.cpp > compile.p
+- g++ -E headerfiles.h > compile.p
+
