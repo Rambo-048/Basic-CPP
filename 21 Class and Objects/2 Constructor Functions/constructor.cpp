@@ -35,7 +35,7 @@ int main()
 
 	LibraryMovies movie2(2468, "Vikrant Chopra", "The Puerto Kiko", 1900);
 
-	LibraryMovies movie3(1279, "Anjana Charan", "Sagare Galilea", 2060);
+	LibraryMovies movie3(1279, "Anjana Charan", "Kuch Kuch Chote", 2060);
 
 	LibraryMovies movie4(3467, "Thakur Rotan", "Rotan Berjalan", 1800);
 
