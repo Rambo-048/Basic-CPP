@@ -6,7 +6,7 @@ int main(){
 
 	// Print Output 
 	int a;
-	a = 20;
+	a = 10;
 
 	cout << a << endl;
 

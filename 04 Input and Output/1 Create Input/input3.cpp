@@ -1,15 +1,21 @@
 #include <iostream>
 
-using namespace std;
+using namespace std; 
 
-int main()
-{
+int main(){
+
+	// Print Output 
 	int a;
-
-	cout << "Insert Value : ";
-	cin >> a;
+	a = 20;
 
 	cout << a << endl;
+
+	// Create Input
+	int b;
+	cout << "Insert a Value You Want : ";
+	cin >> b;
+	cout << "Value Number is : ";
+	cout << b << endl;
 
 	cin.get();
 	return 0;
