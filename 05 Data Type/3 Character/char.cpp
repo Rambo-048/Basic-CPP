@@ -7,7 +7,7 @@ int main() {
 	// Fundamental Data Type :
 
 	// Character
-	char a = "A"; // characther 1 byte
+	char a = "A"; // character 1 byte
 
 	cout << a << endl;
 	cout << sizeof(a) << " byte" << endl;
