@@ -1,0 +1,3 @@
+Compile
+
+- g++ application1.cpp application2.cpp -o program
