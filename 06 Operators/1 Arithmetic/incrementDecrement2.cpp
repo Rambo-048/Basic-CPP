@@ -13,9 +13,9 @@ int main()
 	cout << a << endl << endl;     // a -> 6
 
 	// preincrement
-	cout << b << endl;             // a -> 5
-	cout << ++b << endl;           // preincrement  --> (a + 1 = 6)
-	cout << b << endl << endl;     // a -> 6
+	cout << b << endl;             // b -> 5
+	cout << ++b << endl;           // preincrement  --> (b + 1 = 6)
+	cout << b << endl << endl;     // b -> 6
 	
 	// Postdecrement
 	cout << a << endl;             // a -> 6
@@ -23,9 +23,9 @@ int main()
 	cout << a << endl << endl;     // a -> 5
 
 	// predecrement
-	cout << b << endl;             // a -> 6
-	cout << --b << endl;           // predecrement  --> (a - 1 = 5)
-	cout << b << endl << endl;     // a -> 5
+	cout << b << endl;             // b -> 6
+	cout << --b << endl;           // predecrement  --> (b - 1 = 5)
+	cout << b << endl << endl;     // b -> 5
 
 	cin.get();
 	return 0;
