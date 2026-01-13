@@ -10,7 +10,7 @@ int main()
 	// Postincrement
 	cout << a << endl;             // a -> 5
 	cout << a++ << endl;           // postincrement --> (a = 5) --> (a + 1)
-	cout << a << endl << endl;     // a ->
+	cout << a << endl << endl;     // a -> 6
 
 	// preincrement
 	cout << b << endl;             // a -> 5
