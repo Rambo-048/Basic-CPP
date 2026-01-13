@@ -6,7 +6,8 @@ int main() {
 
 	// Round Number
 	int a = 1;           
-	int b = 2;           
+	int b = 2;
+	int c = 5;
 	int total;
 
 
