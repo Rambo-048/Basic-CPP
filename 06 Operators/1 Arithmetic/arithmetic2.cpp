@@ -7,6 +7,7 @@ int main() {
 	// Decimal Number
 	float a = 1;
 	int b = 2;
+	int c = 5;
 	float total; 
 
 
