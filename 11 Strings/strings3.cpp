@@ -21,7 +21,7 @@ int main()
 	// cout << "Index 6 : " << alphabet[0][1][2][3][4][5][6] << endl;
 	// cout << "Index 7 : " << alphabet[0][1][2][3][4][5][6][7] << endl;
 	// cout << "Index 8 : " << alphabet[0][1][2][3][4][5][6][7][8] << endl;
-	// // cout << "Index 9 : " << alphabet[0][1][2][3][4][5][6][7] << endl;
+	// cout << "Index 9 : " << alphabet[0][1][2][3][4][5][6][7] << endl;
 	// cout << "Index 10: " << alphabet[0][1][2][3][4][5][6] << endl;
 	// cout << "Index 11 : " << alphabet[0][1][2][3][4][5] << endl;
 	// cout << "Index 12 : " << alphabet[0][1][2][3][4] << endl;
