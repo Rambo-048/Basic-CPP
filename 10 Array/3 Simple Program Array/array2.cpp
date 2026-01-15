@@ -25,13 +25,13 @@ void printArray(std::array <char, arraySize> &number){
 int main(){
 	std::array <int, arraySize> number = {9,4,6,7,8,1,3,2,5,0};
 	
-	int numberCari = 5;
+	int findNumber = 5;
 	bool found;
 	// sort data
 	// search ---> binary_search
 
 	std::sort(number.begin(), number.end());
-	found = std::binary_search(number.begin(), number.end(), numberCari);
+	found = std::binary_search(number.begin(), number.end(), findNumber);
 
 	printArray(number);
 
