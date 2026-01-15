@@ -12,11 +12,11 @@ int main()
 	for(int i = 0; i <= value.size(); i++){
 		cout << "Total Value ";
 		if(i == 0){
-			cout << "0-9  : ";
+			cout << "0-10  : ";
 		}else if(i == 10){
 			cout << "100  : ";
 		}else{
-			cout << i*10 << "-" << (i*10) + 9 << ": ";
+			cout << i*10 << "-" << (i*10) + 10 << ": ";
 		}
 		cin >> value[i];
 	}
@@ -27,11 +27,11 @@ int main()
 
 	for(int i = 0; i <= value.size(); i++){
 		if(i == 0){
-			cout << "0-9  : ";
+			cout << "0-10  : ";
 		}else if(i == 10){
 			cout << "100  : ";
 		}else{
-			cout << i*10 << "-" << (i*10) + 9 << ": ";
+			cout << i*10 << "-" << (i*10) + 10 << ": ";
 		}
 
 		for(int a = 0; a < value[i]; a++){
