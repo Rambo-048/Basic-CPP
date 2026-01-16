@@ -24,7 +24,7 @@ int main(){
 
 	// create actor 1
 	actor1.name = "Vikram Kekar";
-	aktor1.born = 1992;
+	actor1.born = 1992;
 
 	// create actor 2
 	actor2.name = "Vikrant Chopra";
