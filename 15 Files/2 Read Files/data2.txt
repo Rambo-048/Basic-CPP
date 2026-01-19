@@ -1,0 +1,35 @@
+this is external file.
+and this is row 2.
+
+data
+No   Words
+1    Protector
+2    Glider
+3    Grim
+4    Glaze
+5    Crescent
+6    Furious
+7    Pioneer
+8    Grim
+9    Restraint
+10   Arclight
+11   Scream
+12   Cursed
+13   Waitress
+14   Sanctuary
+15   Charmer
+16   Chrono
+17   Combat
+18   Fluffy
+19   Evolved
+20   Berserker
+21   Strangler
+22   Outlaw
+23   Desert
+24   Vanquisher
+25   Rescuer
+26   Chaser
+27   Sparkle
+28   Empress
+29   Maiden
+30   Wizard
