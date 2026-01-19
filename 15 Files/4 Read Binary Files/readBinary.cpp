@@ -23,7 +23,8 @@ int main(){
 
 
 // fstream myFile;
-// int number = 640140;
+// int number1 = 640140;
+// //int number2 = 8665787185658268
 // myFile.open("data.bin", ios::out | ios::binary);
 
 // myFile.write(reinterpret_cast<char*>(&number), sizeof(number));
