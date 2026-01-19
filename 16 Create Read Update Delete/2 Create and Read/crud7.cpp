@@ -106,7 +106,7 @@ int main(){
 		switch(Chosen){
 			case CREATE:
 				cout << "Add Data Movies" << endl;
-				addDataMahasiswa(data);
+				addDataMovies(data);
 				break;				
 			case READ:
 				cout << "Show Data Movies" << endl;
