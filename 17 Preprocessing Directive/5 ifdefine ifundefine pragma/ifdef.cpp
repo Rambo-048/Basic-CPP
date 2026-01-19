@@ -35,7 +35,7 @@ int main(){
 	Movies movie;
 	movie.id_number : 132465;
 	movie.actor_name : "Thakur Rotan";
-	movie.title : "Cenat Cenut"
+	movie.title : "Cenat Cenut";
 
 	cout << movie.id_number << endl;
 	cout << movie.actor_name << endl;
